@@ -5,7 +5,7 @@ Pursuing a career in <strong>software development</strong><br>
   <a href="https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9sar-almeida-190508182/" target="https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9sar-almeida-190508182/" target="_blank">My linkedin</a>
 </p>
 <h2>About this portfolio</h2>
-<p>here you will find some python code and maybe java and c/c++
+<p>here you will find python java and c/c++ or something i am learning at the moment
 <br>Any tips are appreciated
 <h3>Enjoy :)</h3>
 </p>
